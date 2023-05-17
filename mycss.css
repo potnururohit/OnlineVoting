@@ -1,0 +1,16 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    font-family:poppins;
+    text-decoration: none;
+}
+body{
+    margin:5%;
+    background-color: #f2f4f6;
+}
+div.login-form{
+    width:450px;
+    background-color: white;
+    box-shadow: 0px 5px 10px black;
+}
